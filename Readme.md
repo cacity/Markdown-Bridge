@@ -1,4 +1,4 @@
-# Markdown Translator 📝 ↔️ 🌐
+# Markdown Bridge 📝 ↔️ 🌐
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
@@ -20,8 +20,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/markdown-translator.git
-cd markdown-translator
+git clone git@github.com:cacity/Markdown-Bridge.git
+cd Markdown-Bridge
 
 # 安装依赖
 pip install -r requirements.txt
